@@ -23,7 +23,7 @@ import SimpleEmoji from 'simple-react-native-emoji';
 
 | Prop              | Type     | Default       | Description                                              |
 | ----------------- | -------- | ------------- | -------------------------------------------------------- |
-| shortName   | _string_   |               | [Datasource](https://raw.githubusercontent.com/iamcal/emoji-data/master/emoji.json) (e.g. `smile`, `:star-stcuck:`)            |
+| shortName   | _string_   |               | [Datasource](https://raw.githubusercontent.com/iamcal/emoji-data/master/emoji.json) (e.g. `smile`, `:star-struck:`)            |
 
 - Since it's just `Text`, You can pass [Text props](https://reactnative.dev/docs/text#props).
 
