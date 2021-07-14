@@ -1,0 +1,27 @@
+{
+  "name": "simple-react-native-emoji",
+  "description": "Simple emoji component for React Native.",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "emoji",
+    "react-native",
+    "component",
+    "simple"
+  ],
+  "author": "kouhot",
+  "license": "MIT",
+  "homepage": "https://github.com/kouhot/simple-react-native-emoji",
+  "bugs": "https://github.com/kouhot/simple-react-native-emoji/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kouhot/simple-react-native-emoji.git"
+  },
+  "dependencies": {
+    "emoji-datasource": "^7.0.2"
+  }
+}
