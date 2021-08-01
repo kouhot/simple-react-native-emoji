@@ -1,6 +1,8 @@
 # simple-react-native-emoji
 React Native simple emoji component.
 
+![simple-react-native-emoji-screenshot](https://user-images.githubusercontent.com/10332953/127773257-dfb5abf7-0cf0-4b07-bba4-e16aa55475ad.png)
+
 ## Installation
 
 ### Using yarn
